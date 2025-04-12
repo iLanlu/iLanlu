@@ -1,6 +1,6 @@
-<h1 align="center">✨ Hey there! I'm Lanlu ✨</h1>
+<h1 align="center">✨🖤 Hi! I'm Lanlu 🖤✨</h1>
 <p align="center">
-  Indie Game Developer ⚔️ | Anime-Inspired Storyteller 🖋️ | Founder of <b>Sxolar Soul</b>
+  Indie Game Developer ⚔️ | Anime-Inspired Storyteller 🖋️ | Computer Systems Engineering Student 💻 | Founder of <b>Sxolar Soul</b> 🖤
 </p>
 
 ---
@@ -16,9 +16,9 @@
             &nbsp;<strong>About Me</strong>
           </p>
           <ul>
-            <li>🎓 Computer Engineering student</li>
+            <li>💻 Computer Systems Engineering student</li>
             <li>🔥 Passionate game dev crafting with anime-style aesthetics</li>
-            <li>⚙️ Currently laying the foundations for <b>Sxolar Soul</b>, an anime-inspired indie fighting game</li>
+            <li>⚙️ Currently building <b>Sxolar Soul</b>, an anime-inspired indie fighting game <i>(WIP)</i></li>
             <li>🌱 Continuously improving my digital art and animation skills</li>
           </ul>
         </div>
